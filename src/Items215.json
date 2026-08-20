@@ -1,0 +1,1077 @@
+[
+  {
+    "itemName": "flashlight",
+    "value": 10,
+    "weight": 0.3
+  },
+  {
+    "itemName": "keyboard",
+    "value": 35,
+    "weight": 0.69
+  },
+  {
+    "itemName": "mouse",
+    "value": 20,
+    "weight": 0.12
+  },
+  {
+    "itemName": "coffee mug",
+    "value": 8,
+    "weight": 0.35
+  },
+  {
+    "itemName": "water bottle",
+    "value": 15,
+    "weight": 0.4
+  },
+  {
+    "itemName": "desk lamp",
+    "value": 25,
+    "weight": 1.1
+  },
+  {
+    "itemName": "table fan",
+    "value": 30,
+    "weight": 2.2
+  },
+  {
+    "itemName": "alarm clock",
+    "value": 18,
+    "weight": 0.35
+  },
+  {
+    "itemName": "wall clock",
+    "value": 25,
+    "weight": 0.9
+  },
+  {
+    "itemName": "bathroom scale",
+    "value": 25,
+    "weight": 1.6
+  },
+  {
+    "itemName": "hair dryer",
+    "value": 35,
+    "weight": 0.7
+  },
+  {
+    "itemName": "electric shaver",
+    "value": 45,
+    "weight": 0.35
+  },
+  {
+    "itemName": "toothbrush",
+    "value": 5,
+    "weight": 0.05
+  },
+  {
+    "itemName": "electric toothbrush",
+    "value": 35,
+    "weight": 0.2
+  },
+  {
+    "itemName": "hair brush",
+    "value": 8,
+    "weight": 0.12
+  },
+  {
+    "itemName": "hand mirror",
+    "value": 12,
+    "weight": 0.4
+  },
+  {
+    "itemName": "towel",
+    "value": 15,
+    "weight": 0.5
+  },
+  {
+    "itemName": "bath towel",
+    "value": 25,
+    "weight": 0.8
+  },
+  {
+    "itemName": "soap dispenser",
+    "value": 10,
+    "weight": 0.25
+  },
+  {
+    "itemName": "shampoo bottle",
+    "value": 8,
+    "weight": 0.5
+  },
+  {
+    "itemName": "desk organizer",
+    "value": 15,
+    "weight": 0.6
+  },
+  {
+    "itemName": "notebook",
+    "value": 6,
+    "weight": 0.35
+  },
+  {
+    "itemName": "pen set",
+    "value": 10,
+    "weight": 0.15
+  },
+  {
+    "itemName": "stapler",
+    "value": 8,
+    "weight": 0.25
+  },
+  {
+    "itemName": "scissors",
+    "value": 12,
+    "weight": 0.15
+  },
+  {
+    "itemName": "tape measure",
+    "value": 10,
+    "weight": 0.3
+  },
+  {
+    "itemName": "hammer",
+    "value": 18,
+    "weight": 0.8
+  },
+  {
+    "itemName": "screwdriver set",
+    "value": 25,
+    "weight": 1.2
+  },
+  {
+    "itemName": "pliers",
+    "value": 15,
+    "weight": 0.35
+  },
+  {
+    "itemName": "wrench set",
+    "value": 35,
+    "weight": 1.5
+  },
+  {
+    "itemName": "spirit level",
+    "value": 15,
+    "weight": 0.5
+  },
+  {
+    "itemName": "toolbox",
+    "value": 40,
+    "weight": 2.5
+  },
+  {
+    "itemName": "power drill",
+    "value": 80,
+    "weight": 1.8
+  },
+  {
+    "itemName": "extension cord",
+    "value": 20,
+    "weight": 0.8
+  },
+  {
+    "itemName": "power strip",
+    "value": 18,
+    "weight": 0.5
+  },
+  {
+    "itemName": "phone charger",
+    "value": 20,
+    "weight": 0.15
+  },
+  {
+    "itemName": "USB cable",
+    "value": 8,
+    "weight": 0.08
+  },
+  {
+    "itemName": "power bank",
+    "value": 30,
+    "weight": 0.25
+  },
+  {
+    "itemName": "bluetooth speaker",
+    "value": 50,
+    "weight": 0.7
+  },
+  {
+    "itemName": "headphones",
+    "value": 60,
+    "weight": 0.35
+  },
+  {
+    "itemName": "computer monitor",
+    "value": 180,
+    "weight": 4.5
+  },
+  {
+    "itemName": "laptop",
+    "value": 800,
+    "weight": 1.8
+  },
+  {
+    "itemName": "tablet",
+    "value": 300,
+    "weight": 0.5
+  },
+  {
+    "itemName": "smartphone",
+    "value": 500,
+    "weight": 0.2
+  },
+  {
+    "itemName": "webcam",
+    "value": 50,
+    "weight": 0.15
+  },
+  {
+    "itemName": "router",
+    "value": 60,
+    "weight": 0.5
+  },
+  {
+    "itemName": "game controller",
+    "value": 60,
+    "weight": 0.3
+  },
+  {
+    "itemName": "USB hub",
+    "value": 20,
+    "weight": 0.12
+  },
+  {
+    "itemName": "external hard drive",
+    "value": 90,
+    "weight": 0.25
+  },
+  {
+    "itemName": "small bookshelf",
+    "value": 70,
+    "weight": 8.0
+  },
+  {
+    "itemName": "book",
+    "value": 15,
+    "weight": 0.7
+  },
+  {
+    "itemName": "picture frame",
+    "value": 15,
+    "weight": 0.5
+  },
+  {
+    "itemName": "plant pot",
+    "value": 12,
+    "weight": 0.8
+  },
+  {
+    "itemName": "house plant",
+    "value": 25,
+    "weight": 1.5
+  },
+  {
+    "itemName": "vase",
+    "value": 20,
+    "weight": 1.0
+  },
+  {
+    "itemName": "candle",
+    "value": 10,
+    "weight": 0.3
+  },
+  {
+    "itemName": "blanket",
+    "value": 30,
+    "weight": 1.5
+  },
+  {
+    "itemName": "pillow",
+    "value": 20,
+    "weight": 0.8
+  },
+  {
+    "itemName": "bed sheet set",
+    "value": 35,
+    "weight": 1.2
+  },
+  {
+    "itemName": "curtain",
+    "value": 30,
+    "weight": 1.0
+  },
+  {
+    "itemName": "laundry basket",
+    "value": 25,
+    "weight": 1.2
+  },
+  {
+    "itemName": "clothes hanger pack",
+    "value": 12,
+    "weight": 0.7
+  },
+  {
+    "itemName": "iron",
+    "value": 35,
+    "weight": 1.2
+  },
+  {
+    "itemName": "ironing board",
+    "value": 45,
+    "weight": 4.0
+  },
+  {
+    "itemName": "vacuum cleaner",
+    "value": 150,
+    "weight": 5.5
+  },
+  {
+    "itemName": "broom",
+    "value": 12,
+    "weight": 0.8
+  },
+  {
+    "itemName": "dustpan",
+    "value": 6,
+    "weight": 0.3
+  },
+  {
+    "itemName": "mop",
+    "value": 15,
+    "weight": 0.7
+  },
+  {
+    "itemName": "bucket",
+    "value": 8,
+    "weight": 0.6
+  },
+  {
+    "itemName": "trash bin",
+    "value": 20,
+    "weight": 1.2
+  },
+  {
+    "itemName": "kitchen sponge pack",
+    "value": 5,
+    "weight": 0.15
+  },
+  {
+    "itemName": "dish brush",
+    "value": 6,
+    "weight": 0.1
+  },
+  {
+    "itemName": "cutting board",
+    "value": 15,
+    "weight": 0.7
+  },
+  {
+    "itemName": "kitchen knife",
+    "value": 25,
+    "weight": 0.25
+  },
+  {
+    "itemName": "knife set",
+    "value": 60,
+    "weight": 1.5
+  },
+  {
+    "itemName": "frying pan",
+    "value": 35,
+    "weight": 1.2
+  },
+  {
+    "itemName": "saucepan",
+    "value": 30,
+    "weight": 1.3
+  },
+  {
+    "itemName": "cooking pot",
+    "value": 45,
+    "weight": 2.0
+  },
+  {
+    "itemName": "baking tray",
+    "value": 15,
+    "weight": 0.8
+  },
+  {
+    "itemName": "mixing bowl",
+    "value": 15,
+    "weight": 0.6
+  },
+  {
+    "itemName": "food container set",
+    "value": 20,
+    "weight": 0.8
+  },
+  {
+    "itemName": "glass set",
+    "value": 18,
+    "weight": 1.0
+  },
+  {
+    "itemName": "plate set",
+    "value": 30,
+    "weight": 2.5
+  },
+  {
+    "itemName": "cutlery set",
+    "value": 25,
+    "weight": 1.2
+  },
+  {
+    "itemName": "electric kettle",
+    "value": 35,
+    "weight": 1.0
+  },
+  {
+    "itemName": "toaster",
+    "value": 40,
+    "weight": 1.5
+  },
+  {
+    "itemName": "coffee maker",
+    "value": 80,
+    "weight": 2.5
+  },
+  {
+    "itemName": "blender",
+    "value": 50,
+    "weight": 2.0
+  },
+  {
+    "itemName": "microwave oven",
+    "value": 120,
+    "weight": 12.0
+  },
+  {
+    "itemName": "rice cooker",
+    "value": 60,
+    "weight": 2.5
+  },
+  {
+    "itemName": "food scale",
+    "value": 20,
+    "weight": 0.4
+  },
+  {
+    "itemName": "thermos",
+    "value": 25,
+    "weight": 0.5
+  },
+  {
+    "itemName": "lunch box",
+    "value": 15,
+    "weight": 0.3
+  },
+  {
+    "itemName": "can opener",
+    "value": 8,
+    "weight": 0.15
+  },
+  {
+    "itemName": "bottle opener",
+    "value": 5,
+    "weight": 0.08
+  },
+  {
+    "itemName": "pepper grinder",
+    "value": 15,
+    "weight": 0.3
+  },
+  {
+    "itemName": "salt shaker",
+    "value": 6,
+    "weight": 0.2
+  },
+  {
+    "itemName": "storage box",
+    "value": 15,
+    "weight": 0.7
+  },
+  {
+    "itemName": "plastic drawer unit",
+    "value": 40,
+    "weight": 3.0
+  },
+  {
+    "itemName": "folding chair",
+    "value": 35,
+    "weight": 3.5
+  },
+  {
+    "itemName": "office chair",
+    "value": 150,
+    "weight": 12.0
+  },
+  {
+    "itemName": "small side table",
+    "value": 50,
+    "weight": 6.0
+  },
+  {
+    "itemName": "standing lamp",
+    "value": 60,
+    "weight": 3.0
+  },
+  {
+    "itemName": "floor mirror",
+    "value": 80,
+    "weight": 8.0
+  },
+  {
+    "itemName": "backpack",
+    "value": 50,
+    "weight": 0.8
+  },
+  {
+    "itemName": "umbrella",
+    "value": 20,
+    "weight": 0.5
+  },
+  {
+    "itemName": "suitcase",
+    "value": 100,
+    "weight": 3.5
+  },
+  {
+    "itemName": "dining table",
+    "value": 250,
+    "weight": 35
+  },
+  {
+    "itemName": "wooden chair",
+    "value": 80,
+    "weight": 7
+  },
+  {
+    "itemName": "armchair",
+    "value": 180,
+    "weight": 15
+  },
+  {
+    "itemName": "sofa",
+    "value": 600,
+    "weight": 45
+  },
+  {
+    "itemName": "three-seat sofa",
+    "value": 800,
+    "weight": 55
+  },
+  {
+    "itemName": "recliner",
+    "value": 350,
+    "weight": 30
+  },
+  {
+    "itemName": "coffee table",
+    "value": 120,
+    "weight": 12
+  },
+  {
+    "itemName": "TV stand",
+    "value": 150,
+    "weight": 18
+  },
+  {
+    "itemName": "large bookshelf",
+    "value": 200,
+    "weight": 30
+  },
+  {
+    "itemName": "wardrobe",
+    "value": 450,
+    "weight": 55
+  },
+  {
+    "itemName": "dresser",
+    "value": 300,
+    "weight": 35
+  },
+  {
+    "itemName": "bedside table",
+    "value": 100,
+    "weight": 10
+  },
+  {
+    "itemName": "double bed frame",
+    "value": 400,
+    "weight": 35
+  },
+  {
+    "itemName": "single bed frame",
+    "value": 250,
+    "weight": 22
+  },
+  {
+    "itemName": "mattress",
+    "value": 350,
+    "weight": 30
+  },
+  {
+    "itemName": "king mattress",
+    "value": 600,
+    "weight": 45
+  },
+  {
+    "itemName": "wooden desk",
+    "value": 250,
+    "weight": 25
+  },
+  {
+    "itemName": "large office desk",
+    "value": 350,
+    "weight": 35
+  },
+  {
+    "itemName": "filing cabinet",
+    "value": 180,
+    "weight": 25
+  },
+  {
+    "itemName": "metal shelving unit",
+    "value": 150,
+    "weight": 20
+  },
+  {
+    "itemName": "large storage cabinet",
+    "value": 300,
+    "weight": 40
+  },
+  {
+    "itemName": "TV cabinet",
+    "value": 250,
+    "weight": 30
+  },
+  {
+    "itemName": "large mirror",
+    "value": 120,
+    "weight": 10
+  },
+  {
+    "itemName": "dressing table",
+    "value": 300,
+    "weight": 28
+  },
+  {
+    "itemName": "wooden bench",
+    "value": 150,
+    "weight": 15
+  },
+  {
+    "itemName": "folding table",
+    "value": 100,
+    "weight": 12
+  },
+  {
+    "itemName": "garden table",
+    "value": 180,
+    "weight": 20
+  },
+  {
+    "itemName": "garden chair",
+    "value": 60,
+    "weight": 5
+  },
+  {
+    "itemName": "garden bench",
+    "value": 180,
+    "weight": 18
+  },
+  {
+    "itemName": "patio umbrella",
+    "value": 150,
+    "weight": 12
+  },
+  {
+    "itemName": "large planter",
+    "value": 80,
+    "weight": 15
+  },
+  {
+    "itemName": "ceramic planter",
+    "value": 60,
+    "weight": 8
+  },
+  {
+    "itemName": "BBQ grill",
+    "value": 250,
+    "weight": 25
+  },
+  {
+    "itemName": "large gas grill",
+    "value": 700,
+    "weight": 55
+  },
+  {
+    "itemName": "fire pit",
+    "value": 200,
+    "weight": 30
+  },
+  {
+    "itemName": "lawn mower",
+    "value": 400,
+    "weight": 30
+  },
+  {
+    "itemName": "electric lawn mower",
+    "value": 300,
+    "weight": 18
+  },
+  {
+    "itemName": "wheelbarrow",
+    "value": 80,
+    "weight": 12
+  },
+  {
+    "itemName": "garden hose reel",
+    "value": 100,
+    "weight": 8
+  },
+  {
+    "itemName": "ladder",
+    "value": 150,
+    "weight": 12
+  },
+  {
+    "itemName": "extension ladder",
+    "value": 300,
+    "weight": 25
+  },
+  {
+    "itemName": "workbench",
+    "value": 400,
+    "weight": 45
+  },
+  {
+    "itemName": "heavy tool cabinet",
+    "value": 500,
+    "weight": 55
+  },
+  {
+    "itemName": "air compressor",
+    "value": 250,
+    "weight": 25
+  },
+  {
+    "itemName": "pressure washer",
+    "value": 300,
+    "weight": 20
+  },
+  {
+    "itemName": "shop vacuum",
+    "value": 180,
+    "weight": 12
+  },
+  {
+    "itemName": "large vacuum cleaner",
+    "value": 250,
+    "weight": 10
+  },
+  {
+    "itemName": "carpet cleaner",
+    "value": 300,
+    "weight": 15
+  },
+  {
+    "itemName": "portable generator",
+    "value": 600,
+    "weight": 35
+  },
+  {
+    "itemName": "space heater",
+    "value": 80,
+    "weight": 5
+  },
+  {
+    "itemName": "electric radiator",
+    "value": 120,
+    "weight": 8
+  },
+  {
+    "itemName": "portable air conditioner",
+    "value": 450,
+    "weight": 30
+  },
+  {
+    "itemName": "tower fan",
+    "value": 100,
+    "weight": 6
+  },
+  {
+    "itemName": "dehumidifier",
+    "value": 250,
+    "weight": 12
+  },
+  {
+    "itemName": "air purifier",
+    "value": 200,
+    "weight": 8
+  },
+  {
+    "itemName": "refrigerator",
+    "value": 900,
+    "weight": 70
+  },
+  {
+    "itemName": "large refrigerator",
+    "value": 1400,
+    "weight": 90
+  },
+  {
+    "itemName": "freezer",
+    "value": 600,
+    "weight": 45
+  },
+  {
+    "itemName": "chest freezer",
+    "value": 700,
+    "weight": 55
+  },
+  {
+    "itemName": "washing machine",
+    "value": 600,
+    "weight": 65
+  },
+  {
+    "itemName": "dryer",
+    "value": 650,
+    "weight": 55
+  },
+  {
+    "itemName": "dishwasher",
+    "value": 600,
+    "weight": 50
+  },
+  {
+    "itemName": "electric oven",
+    "value": 700,
+    "weight": 45
+  },
+  {
+    "itemName": "stove",
+    "value": 500,
+    "weight": 40
+  },
+  {
+    "itemName": "range cooker",
+    "value": 1200,
+    "weight": 80
+  },
+  {
+    "itemName": "large microwave",
+    "value": 200,
+    "weight": 15
+  },
+  {
+    "itemName": "wine cooler",
+    "value": 400,
+    "weight": 25
+  },
+  {
+    "itemName": "ice maker",
+    "value": 250,
+    "weight": 15
+  },
+  {
+    "itemName": "large freezer chest",
+    "value": 800,
+    "weight": 65
+  },
+  {
+    "itemName": "espresso machine",
+    "value": 500,
+    "weight": 10
+  },
+  {
+    "itemName": "stand mixer",
+    "value": 350,
+    "weight": 9
+  },
+  {
+    "itemName": "food processor",
+    "value": 180,
+    "weight": 6
+  },
+  {
+    "itemName": "large blender",
+    "value": 150,
+    "weight": 5
+  },
+  {
+    "itemName": "bread maker",
+    "value": 150,
+    "weight": 7
+  },
+  {
+    "itemName": "electric griddle",
+    "value": 100,
+    "weight": 5
+  },
+  {
+    "itemName": "deep fryer",
+    "value": 120,
+    "weight": 6
+  },
+  {
+    "itemName": "large roasting pan",
+    "value": 80,
+    "weight": 4
+  },
+  {
+    "itemName": "cast iron skillet",
+    "value": 60,
+    "weight": 3.5
+  },
+  {
+    "itemName": "cast iron pot",
+    "value": 100,
+    "weight": 6
+  },
+  {
+    "itemName": "large ceramic dish",
+    "value": 50,
+    "weight": 4
+  },
+  {
+    "itemName": "dining table glass top",
+    "value": 300,
+    "weight": 25
+  },
+  {
+    "itemName": "large wooden cutting board",
+    "value": 50,
+    "weight": 3
+  },
+  {
+    "itemName": "water dispenser",
+    "value": 150,
+    "weight": 12
+  },
+  {
+    "itemName": "water cooler",
+    "value": 250,
+    "weight": 20
+  },
+  {
+    "itemName": "large aquarium",
+    "value": 300,
+    "weight": 25
+  },
+  {
+    "itemName": "aquarium stand",
+    "value": 150,
+    "weight": 20
+  },
+  {
+    "itemName": "aquarium tank",
+    "value": 250,
+    "weight": 20
+  },
+  {
+    "itemName": "large pet carrier",
+    "value": 100,
+    "weight": 8
+  },
+  {
+    "itemName": "dog crate",
+    "value": 150,
+    "weight": 15
+  },
+  {
+    "itemName": "cat tower",
+    "value": 180,
+    "weight": 12
+  },
+  {
+    "itemName": "treadmill",
+    "value": 800,
+    "weight": 70
+  },
+  {
+    "itemName": "exercise bike",
+    "value": 500,
+    "weight": 30
+  },
+  {
+    "itemName": "rowing machine",
+    "value": 700,
+    "weight": 35
+  },
+  {
+    "itemName": "weight bench",
+    "value": 250,
+    "weight": 25
+  },
+  {
+    "itemName": "barbell set",
+    "value": 300,
+    "weight": 50
+  },
+  {
+    "itemName": "dumbbell set",
+    "value": 250,
+    "weight": 40
+  },
+  {
+    "itemName": "kettlebell set",
+    "value": 180,
+    "weight": 30
+  },
+  {
+    "itemName": "large exercise mat",
+    "value": 60,
+    "weight": 5
+  },
+  {
+    "itemName": "bicycle",
+    "value": 500,
+    "weight": 14
+  },
+  {
+    "itemName": "mountain bike",
+    "value": 900,
+    "weight": 15
+  },
+  {
+    "itemName": "electric bicycle",
+    "value": 1800,
+    "weight": 25
+  },
+  {
+    "itemName": "folding bicycle",
+    "value": 600,
+    "weight": 13
+  },
+  {
+    "itemName": "scooter",
+    "value": 300,
+    "weight": 12
+  },
+  {
+    "itemName": "electric scooter",
+    "value": 600,
+    "weight": 18
+  },
+  {
+    "itemName": "car jack",
+    "value": 100,
+    "weight": 12
+  },
+  {
+    "itemName": "portable car ramp",
+    "value": 150,
+    "weight": 18
+  },
+  {
+    "itemName": "car battery",
+    "value": 150,
+    "weight": 18
+  },
+  {
+    "itemName": "roof cargo box",
+    "value": 400,
+    "weight": 20
+  }
+]

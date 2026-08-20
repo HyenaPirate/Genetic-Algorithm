@@ -1,5 +1,10 @@
+package problems;
+
 import com.google.gson.Gson;
 import com.google.gson.JsonObject;
+import genetic_algorithm.Chromosome;
+import genetic_algorithm.LiveGraph;
+import genetic_algorithm.Subject;
 
 import java.io.FileReader;
 import java.io.IOException;
@@ -10,6 +15,10 @@ public abstract class ProblemBlueprint {
 
     public ProblemBlueprint(String filePath) {
         loadData(filePath);
+    }
+
+    public JsonObject[] getData() {
+        return data;
     }
 
     private void loadData(String filePath) {

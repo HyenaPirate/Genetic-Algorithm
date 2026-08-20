@@ -1,3 +1,8 @@
+package problems;
+
+import genetic_algorithm.Chromosome;
+import genetic_algorithm.LiveGraph;
+import genetic_algorithm.Subject;
 import org.jfree.data.xy.XYSeries;
 
 public class Knapsack extends ProblemBlueprint {

@@ -1,3 +1,5 @@
+package genetic_algorithm;
+
 public class Subject {
 
     private Chromosome chromosome;

@@ -1,3 +1,7 @@
+package genetic_algorithm;
+
+import problems.ProblemBlueprint;
+
 import java.util.Arrays;
 
 public class TestManager {
@@ -128,7 +132,7 @@ public class TestManager {
                 child1 = parent1.copy();
                 child2 = parent2.copy();
 
-                int crossoverPoint = (int) (Math.random() * problem.data.length);
+                int crossoverPoint = (int) (Math.random() * problem.getData().length);
 
                 for (int j = 0; j < crossoverPoint; j++) {
                     Object temp = child1.getGene(j);
@@ -224,7 +228,7 @@ public class TestManager {
 
         System.out.println("=================================");
         System.out.println("Starting test: " + problem.getClass().getSimpleName());
-        System.out.println("Data points: " + problem.data.length);
+        System.out.println("Data points: " + problem.getData().length);
         System.out.println("Subjects per generation: " + amountOfSubjects);
         System.out.println("Iterations: " + iterations);
         System.out.println("---------------------------------");

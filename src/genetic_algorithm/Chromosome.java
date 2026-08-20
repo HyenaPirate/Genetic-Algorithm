@@ -1,3 +1,5 @@
+package genetic_algorithm;
+
 import java.util.Random;
 
 public abstract class Chromosome {
